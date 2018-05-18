@@ -6,7 +6,7 @@ Teach students how to start lab work on Learn.co, run tests with the
 `learn` command, and submit a lab with `learn submit`. Additionally, 
 teach students how to use the Sandbox environment.
 
-## SWABTS
+## SWBAT
 
 + USING LEARN - Open a lab with the "Open" or "Open IDE" button
 + USING LEARN - Use the in-browser IDE or the Desktop IDE
